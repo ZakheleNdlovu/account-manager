@@ -1,4 +1,4 @@
-This is an account management simulator program.
+#This is an account management simulator program.
 It uses Python and MySQL.
 
 The program allows the user to:
